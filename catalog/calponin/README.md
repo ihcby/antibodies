@@ -14,5 +14,8 @@ Adult aortic cells of the tunica media and a portion of subendothelial intimal c
 Calponin expression has been demonstrated by IHC in myoepithelial cells in benign and malignant breast lesions. Myoepithelial cells in papillomas of the breast were found to stain positively with anti-calponin but no reactivity was observed in intracystic papillary carcinomas. In ductal carcinoma in situ, calponin immuno-reactivity has been demonstrated in myoepithelial cells at the periphery of involved ducts and lobules in complex sclerosing lesions of the breast.
 Anti-calponin was shown to label stromal myofibroblasts in the majority of invasive breast carcinomas tested but was unreactive with tumor cells. Reactivity has also been observed in neoplastic myoepithelium of routinely fixed pleomorphic adenomas of the salivary gland.
 
+## Документы
+1. [Mechanism of Calponin Stabilization of Cross-Linked Actin Networks](documents/2014_biophysj_jensen_actin_networks.pdf)
+
 ## Images
-![Alt text](1WYP.png "Optional title")
+![Alt text](images/1WYP.png "Optional title")
