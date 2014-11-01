@@ -1,3 +1,3 @@
 # Антитела
 
-[Calponin](catalog/calponin)
+[Calponin](catalog/calponin/README.md)
